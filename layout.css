@@ -11,7 +11,7 @@
 }
 
 .navigation{
-    background-color:powderblue;
+    background-color:darkmagenta;
     padding:15px;
     text-align:center;
     margin-top: 20px;
@@ -19,7 +19,7 @@
 
 
 .content1 , .content2{
-    background-color:powderblue;
+    background-color:yellow;
     padding:40px;
     text-align:center;
     margin-top:20px;
@@ -33,7 +33,7 @@
 }
 
 .mcontent{
-    background-color:powderblue;
+    background-color:grey;
     padding:40px;
     text-align:center;
     margin-top:20px;
