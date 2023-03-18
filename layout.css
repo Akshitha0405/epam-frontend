@@ -1,5 +1,47 @@
 .header{
-    height:50vh;
-    width:100vw;
-    backround-color:grey;
+    background-color: powderblue;
+    padding : 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.navigation{
+    background-color:powderblue;
+    padding:15px;
+    text-align:center;
+    margin-top: 20px;
+}
+
+.content1{
+    background-color:powderblue;
+    padding:20px;
+    text-align:center;
+    margin-top:20px;
+    width:15%;
+    height:500px;
+    float:left;
+    margin-block:15px;
+}
+
+.mcontent{
+    background-color:powderblue;
+    padding:20px;
+    text-align:center;
+    margin-top:20px;
+    margin-left:20px;
+    width:45%;
+    height:500px;
+    float:left;
+    margin-block:15px;
+}
+
+.content2{
+    background-color:powderblue;
+    padding:20px;
+    text-align:center;
+    margin-top:20px;
+    width:15%;
+    height:500px;
+    float:right;
+    margin-block:15px;
 }
